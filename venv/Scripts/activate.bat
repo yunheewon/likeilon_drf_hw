@@ -8,7 +8,7 @@ if defined _OLD_CODEPAGE (
     "%SystemRoot%\System32\chcp.com" 65001 > nul
 )
 
-set VIRTUAL_ENV=C:\Users\HEE WON\OneDrive\Desktop\likelion_drf_hw\likelion_drf_hw\project\venv
+set VIRTUAL_ENV=C:\Users\HEE WON\OneDrive\Desktop\배포\venv
 
 if not defined PROMPT set PROMPT=$P$G
 
